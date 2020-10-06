@@ -13,6 +13,7 @@ namespace Reflection.Example
         {
             Class1 obj = new Class1();
             Console.WriteLine($"Hello World! Il mio valore è: {obj.Licenza}");
+            int i = 0;
             Console.ReadLine();
         }
     }
