@@ -5,6 +5,10 @@ namespace Reflection.Example
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Class1 obj = new Class1();
